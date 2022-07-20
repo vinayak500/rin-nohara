@@ -8,4 +8,4 @@
 
 
 ## Technologies Stack:
-* HTML , CSS , Javascript
+* HTML , CSS 
